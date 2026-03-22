@@ -30,7 +30,7 @@ ________________________________________
 
 ⚙️ Installation & Setup
 1️⃣ Clone Repository
-git clone https://github.com/your-username/handwritten-digit-recognition.git
+git clone https://github.com/Margisha2403/handwritten-digit-recognition.git
 cd handwritten-digit-recognition
 2️⃣ Install Dependencies
 pip install -r requirements.txt
